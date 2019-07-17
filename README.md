@@ -1,0 +1,2 @@
+# Spherical-evolution-SE-
+Thes code of spherical evolution(SE) (available) has been provided ,and the paper named 'Spherical evolution for solving continuous optimization problems' has been published online by applied soft computing as follows:  Deyu Tang, Spherical evolution for solving continuous optimization problems, Applied Soft Computing,2019, DOI:10.1016/j.asoc.2019.105499. (https://www.sciencedirect.com/science/article/pii/S1568494619302698)
